@@ -1,5 +1,5 @@
 # Product-Recommendation
-
+link for Dataset https://archive.ics.uci.edu/ml/datasets/Online+Retail
 # Introduction 
 Product recommendations are part of an ecommerce personalization strategy wherein products are dynamically populated to a user on a webpage, app, or email based on data such as customer history of purchase, browsing behavior, popularity of the product, similarity of products , situational context—providing a personalized shopping experience
 Three ways are listed below for product recommendation:
